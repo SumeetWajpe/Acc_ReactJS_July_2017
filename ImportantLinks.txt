@@ -1,0 +1,5 @@
+https://api.github.com/SumeetWajpe/Acc_ReactJS_July_2017
+
+https://www.reax.io/blog/2016/07/07/quick-guide-to-react-and-redux/
+
+https://facebook.github.io/react/docs/installation.html
